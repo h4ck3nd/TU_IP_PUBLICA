@@ -34,7 +34,9 @@ Esta es una página web retro que te muestra tu IP pública junto con informaci�
 
 ## ✨ Capturas
 
-![Captura Retro](screenshot.png)
+![image](https://github.com/user-attachments/assets/fd478ad8-130b-43de-98b8-01f5238cdd9e)
+
+![image](https://github.com/user-attachments/assets/ba5e79ec-5c27-4d5e-ad64-461d55b76626)
 
 ## 📄 Licencia
 
